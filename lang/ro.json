@@ -6918,8 +6918,8 @@
       "condition": "Visit Artist's Block"
     },
     "nobodys_park": {
-      "name": "\"Loneliest\" Park in Dreamland",
-      "description": "Nobody's Park, and will never be Anybody's Park",
+      "name": "If you love nobody...",
+      "description": "Nobody loves you too.",
       "condition": "Visit Nobody's Park"
     },
     "keroshi_rain_forest": {
