@@ -11019,7 +11019,7 @@
       }
     },
     "countryside": {
-      "name": "Gentle Breeze",
+      "name": "Hương đồng gió nội",
       "condition": "Đến Countryside"
     },
     "balcony_banquet_hall": {
@@ -11033,64 +11033,64 @@
       "condition": "Nhận hiệu ứng Android. Nếu bạn đã nhận được, quay về nơi nhận hiệu ứng ở Space Station."
     },
     "coat_and_muffler_effect": {
-      "name": "Warm & Cozy",
-      "description": "Now, if only I had some hot cocoa...",
-      "condition": "Obtain the Coat & Muffler effect. If you have already unlocked it, return to Pastel Block World."
+      "name": "Ấm cúng",
+      "description": "Được một cốc cacao nóng nữa thì đúng là...",
+      "condition": "Nhận hiệu ứng Áo khoác và Khăn cổ. Nếu bạn đã nhận được, quay về Pastel Block World."
     },
     "magician_effect_uv": {
-      "name": "Dreaming Magician",
-      "description": "There lived a girl, who dreamed to be a magician someday",
-      "condition": "Obtain the Magician effect. If you have already unlocked it, return where it can be found in Floating Library."
+      "name": "Phù thủy mơ ngủ",
+      "description": "Ngày xửa ngày xưa, có một cô bé mơ ước trở thành phù thủy",
+      "condition": "Nhận hiệu ứng Phù thủy. Nếu bạn đã nhận được, quay về nơi nhận hiệu ứng ở Floating Library."
     },
     "miko_effect": {
-      "name": "Mysterious Exorcism Stick",
+      "name": "Gậy trừ tà bí ẩn",
       "description": "Have you put your offering in the shrine?",
-      "condition": "Obtain the Miko effect. If you have already unlocked it, return at the end of the Shrine Labyrinth."
+      "condition": "Nhận hiệu ứng Miko. Nếu bạn đã nhận được, quay về điểm cuối của Shrine Labyrinth."
     },
     "violin_effect": {
       "name": "Remnants of a Lonely Recital",
       "description": "You felt a tingling in your fingers... As if on its own... your body readied the violin to play.",
-      "condition": "Obtain the Violin effect. If you have already unlocked it, return where it can be found in Banquet Hall."
+      "condition": "Nhận hiệu ứng Violin. Nếu bạn đã nhận được, quay về nơi nhận hiệu ứng ở Banquet Hall."
     },
     "orange_window_type": {
-      "name": "Orange Hair Swaying in the Wind",
-      "description": "Between a mild winter and a gentle summer, her orange remains.",
-      "condition": "Obtain the orange window type. If you have already unlocked it, return where it can be found at the entrance of the Shrine Labyrinth."
+      "name": "Tóc cam bay trong gió",
+      "description": "Giữa mùa đông se lạnh hay mùa hè ấm áp, sắc cam vẫn hiện diện.",
+      "condition": "Nhận giao diện orange. Nếu bạn đã nhận được, quay về nơi nhận giao diện ở trước cửa Shrine Labyrinth."
     },
     "magicians_secret": {
       "name": "Bloodflame Sorcery",
       "description": "Light the candle - stay, and watch the rite unfold",
-      "condition": "Obtain the hexe window type. If you have already unlocked it, return to the Magic Room of the Floating Library."
+      "condition": "Nhận giao diện hexe. Nếu bạn đã nhận được, quay về Magic Room ở Floating Library."
     },
     "streetlamp_effect": {
       "name": "My Guiding Streetlamp",
       "description": "Brilliance is light!",
-      "condition": "Obtain the Street Lamp effect. If you have already unlocked it, return to Streetlamp World."
+      "condition": "Nhận hiệu ứng Đèn hồ quang. Nếu bạn đã nhận được, quay về Streetlamp World."
     },
     "stars_pastels": {
-      "name": "Dangling Star Fragments",
-      "description": "Looking at them is making me sleepy...",
-      "condition": "Enter the mobile room in Pastel Blocks World"
+      "name": "Những vụn sao treo",
+      "description": "Nhìn xong lại thấy buồn ngủ...",
+      "condition": "Vào phòng sao treo nôi ở Pastel Blocks World"
     },
     "uv_dark_forest_cliff": {
       "name": "Viola Nocturna",
-      "description": "Violets of the lonesome cliff.",
+      "description": "Violet trên vách đá trơ trọi.",
       "condition": "Reach the cliffside in Dark Forest"
     },
     "little_rabbit": {
-      "name": "A Gentle Visit",
-      "description": "A gentle moment between human and rabbit inside a cozy burrow.",
-      "condition": "Visit the Rabbit's House in Pastel World"
+      "name": "Cuộc gặp gỡ yên bình",
+      "description": "Một khoảnh khắc yên bình giữa người và thỏ trong một cái hốc ấm cúng.",
+      "condition": "Đến nhà của chú thỏ trong Pastel World"
     },
     "uv_snipped": {
-      "name": "Shredded Memories",
-      "description": "Pain that has taken root.",
-      "condition": "Obtain the Short Hair effect. If you have already unlocked it, return to the Bloody Water Dungeon."
+      "name": "Ký ức bị cắt vụn",
+      "description": "Nỗi đau đâm chồi.",
+      "condition": "Nhận hiệu ứng Tóc ngắn. Nếu bạn đã nhận được, quay về Bloody Water Dungeon."
     },
     "committed_memory": {
       "name": "Somenikki",
-      "description": "Would you like to write down your dreams?",
-      "condition": "Buy the save book from the Pastel World shop"
+      "description": "Bạn có muốn viết xuống giấc mơ của mình?"
+      "condition": "Mua quyển sổ lưu tiến trình ở cửa hàng trong Pastel World"
     }
   },
   "sheawaits": {
