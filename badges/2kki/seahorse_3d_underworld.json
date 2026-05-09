@@ -6,6 +6,7 @@
   "mapX": 130,
   "mapY": 156,
   "hidden": true,
-  "art": "bWF5",
+  "art": "Zaakarias",
+  "animated": true,
   "batch": 147
 }

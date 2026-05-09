@@ -1,10 +1,10 @@
 {
   "group": "2_sb",
   "bp": 20,
-  "reqType": "tag",
-  "reqString": "b_p_r",
+  "reqType": "tags",
+  "reqStrings": ["b_p_r", "blood_pus_rust"],
+  "reqCount": 1,
   "map": 138,
-  "secretCondition": true,
-  "art": "bWF5",
-  "batch": 1
+  "art": "Komaki",
+  "batch": 201
 }

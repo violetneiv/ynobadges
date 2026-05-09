@@ -4,6 +4,7 @@
   "reqType": "tag",
   "reqString": "adabana_gardens",
   "map": 1878,
-  "art": "Autumn",
+  "art": "Canto Mk. 6",
+  "animated": true,
   "batch": 26
 }

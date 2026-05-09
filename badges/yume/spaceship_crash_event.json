@@ -4,6 +4,7 @@
   "reqString": "spaceship_crash_event",
   "map": 164,
   "secretCondition": true,
-  "art": "Autumn",
-  "batch": 21
+  "art": "HenryAutumn",
+  "animated": true,
+  "batch": 195
 }

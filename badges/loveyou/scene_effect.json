@@ -1,0 +1,9 @@
+{
+  "bp": 15,
+  "reqType": "tags",
+  "reqStrings": ["scene_effect", "scene_effect_equip"],
+  "reqCount": 1,
+  "map": 8,
+  "art": "vena",
+  "batch": 200
+}

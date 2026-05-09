@@ -6,6 +6,7 @@
   "map": 2570,
   "mapX": 243,
   "mapY": 11,
-  "art": "Joval",
+  "art": "b063",
+  "animated": true,
   "batch": 153
 }

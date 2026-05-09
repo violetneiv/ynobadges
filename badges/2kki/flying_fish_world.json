@@ -20,6 +20,7 @@
     "flying_fish_world_15"
   ],
   "map": 253,
-  "art": "Autumn",
+  "art": "Canto Mk. 6",
+  "animated": true,
   "batch": 9
 }

@@ -3,6 +3,7 @@
   "reqType": "tag",
   "reqString": "nasu_ruby",
   "map": 155,
-  "art": "Joval",
-  "batch": 154
+  "art": "Pats",
+  "animated": true,
+  "batch": 173
 }

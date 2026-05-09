@@ -6,6 +6,7 @@
   "map": 893,
   "secret": true,
   "parent": "snow_fairy",
-  "art": "bWF5",
+  "art": "Canto Mk. 6",
+  "animated": true,
   "batch": 122
 }

@@ -1,6 +1,9 @@
 {
+  "animated": true,
+  "art": "CoolKid95",
+  "batch": 35,
   "bp": 35,
-  "reqType": "tagArrays",
+  "map": 248,
   "reqStringArrays": [
     [
       "glitch_world_kondo"
@@ -22,9 +25,6 @@
       "kondo_ending_room_2"
     ]
   ],
-  "map": 248,
-  "secretMap": true,
-  "art": "Roninnozlo",
-  "animated": true,
-  "batch": 35
+  "reqType": "tagArrays",
+  "secretMap": true
 }

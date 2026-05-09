@@ -4,6 +4,7 @@
   "reqType": "tag",
   "reqString": "whistle_effect_flow",
   "map": 101,
-  "art": "ko-4",
-  "batch": 161
+  "art": "Liyzard",
+  "animated": true,
+  "batch": 206
 }

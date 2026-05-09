@@ -1,0 +1,9 @@
+{
+  "bp": 15,
+  "reqType": "tags",
+  "reqStrings": ["noir_effect", "noir_effect_equip"],
+  "reqCount": 1,
+  "map": 68,
+  "art": "oliverribz",
+  "batch": 200
+}

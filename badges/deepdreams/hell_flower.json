@@ -3,6 +3,7 @@
   "reqType": "tag",
   "reqString": "hell_flower",
   "map": 45,
-  "art": "bWF5",
+  "art": "Anju",
+  "animated": true,
   "batch": 32
 }

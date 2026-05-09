@@ -1,0 +1,9 @@
+{
+  "bp": 15,
+  "reqType": "tags",
+  "reqStrings": ["plague_doctor_effect", "plague_doctor_effect_equip"],
+  "reqCount": 1,
+  "map": 136,
+  "art": "Kalail",
+  "batch": 200
+}

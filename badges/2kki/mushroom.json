@@ -5,6 +5,7 @@
   "reqString": "mushroom_girl",
   "map": 1663,
   "secretCondition": true,
-  "art": "bWF5",
-  "batch": 1
+  "art": "madyme",
+  "animated": true,
+  "batch": 208
 }

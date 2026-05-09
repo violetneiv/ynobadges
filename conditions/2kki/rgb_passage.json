@@ -2,6 +2,7 @@
   "map": 490,
   "mapX1": 14,
   "mapX2": 49,
+  "mapY1": 0,
   "mapY2": 28,
   "trigger": "coords"
 }

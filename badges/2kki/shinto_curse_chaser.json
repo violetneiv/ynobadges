@@ -5,6 +5,7 @@
   "reqString": "shinto_curse_chaser",
   "map": 153,
   "secretCondition": true,
-  "art": "Zolotl",
+  "art": "Canto Mk. 6",
+  "animated": true,
   "batch": 77
 }

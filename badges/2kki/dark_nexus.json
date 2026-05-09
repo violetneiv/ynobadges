@@ -4,6 +4,7 @@
   "reqType": "tag",
   "reqString": "dark_nexus",
   "map": 1662,
-  "art": "Autumn",
-  "batch": 2
+  "art": "HenryAutumn",
+  "animated": true,
+  "batch": 200
 }

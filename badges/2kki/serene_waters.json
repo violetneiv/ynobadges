@@ -2,11 +2,11 @@
   "group": "2_el",
   "bp": 15,
   "reqType": "tag",
-  "reqString": "serene_waters",
+  "reqString": "2kki_mansion_balcony",
   "map": 569,
-  "mapX": 81,
-  "mapY": 67,
-  "art": "bWF5",
+  "mapX": 47,
+  "mapY": 66,
+  "art": "denji9099",
   "animated": true,
-  "batch": 30
+  "batch": 204
 }

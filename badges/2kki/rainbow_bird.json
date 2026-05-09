@@ -1,10 +1,11 @@
 {
-  "group": "2_el",
+  "animated": true,
+  "art": "Hazeframe, Zaakarias, & Canio",
+  "batch": 6,
   "bp": 15,
-  "reqType": "tag",
-  "reqString": "rainbow_bird",
+  "group": "2_el",
   "map": 1139,
-  "secretCondition": true,
-  "art": "bWF5",
-  "batch": 6
+  "reqString": "rainbow_bird",
+  "reqType": "tag",
+  "secretCondition": true
 }

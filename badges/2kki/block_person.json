@@ -1,9 +1,10 @@
 {
-  "group": "2_el",
+  "animated": true,
+  "art": "Hazeframe & Zaakarias",
+  "batch": 7,
   "bp": 10,
-  "reqType": "tag",
-  "reqString": "block_person",
+  "group": "2_el",
   "map": 149,
-  "art": "rollaby",
-  "batch": 7
+  "reqString": "block_person",
+  "reqType": "tag"
 }

@@ -1,8 +1,9 @@
 {
+  "animated": true,
+  "art": "Amadeus",
+  "batch": 32,
   "bp": 30,
-  "reqType": "tag",
-  "reqString": "experiment_tubes",
   "map": 104,
-  "art": "bWF5",
-  "batch": 32
+  "reqString": "experiment_tubes",
+  "reqType": "tag"
 }

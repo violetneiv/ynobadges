@@ -5,6 +5,7 @@
   "reqString": "march_of_progress",
   "map": 854,
   "mapY": 113,
-  "art": "bWF5",
-  "batch": 46
+  "art": "HenryAutumn",
+  "animated": true,
+  "batch": 45
 }
